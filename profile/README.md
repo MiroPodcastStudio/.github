@@ -5,7 +5,7 @@
 Create podcasts from Miro Mindmaps.
 
 ## Project Architecture
-![Alt text](architecture.png)
+![Alt text](profile/architecture.png)
 
 ## Team
-![Alt text](team.png)
+![Alt text](profile/team.png)
